@@ -1,0 +1,80 @@
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\appsettings.Development.json
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\appsettings.json
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\POOI_T2_RosasChinen.staticwebassets.runtime.json
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\POOI_T2_RosasChinen.exe
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\POOI_T2_RosasChinen.deps.json
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\POOI_T2_RosasChinen.runtimeconfig.json
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\POOI_T2_RosasChinen.dll
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\POOI_T2_RosasChinen.pdb
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\CapaEntidad.dll
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\CapaEntidad.pdb
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.csproj.AssemblyReference.cache
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.AssemblyInfoInputs.cache
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.AssemblyInfo.cs
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.csproj.CoreCompileInputs.cache
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.MvcApplicationPartsAssemblyInfo.cache
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.RazorAssemblyInfo.cache
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.RazorAssemblyInfo.cs
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets.build.json
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets.development.json
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets\msbuild.POOI_T2_RosasChinen.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets\msbuild.build.POOI_T2_RosasChinen.props
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.POOI_T2_RosasChinen.props
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.POOI_T2_RosasChinen.props
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\scopedcss\bundle\POOI_T2_RosasChinen.styles.css
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\scopedcss\projectbundle\POOI_T2_RosasChinen.bundle.scp.css
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.csproj.CopyComplete
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.dll
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\refint\POOI_T2_RosasChinen.dll
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.pdb
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.genruntimeconfig.cache
+D:\Descargas\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\ref\POOI_T2_RosasChinen.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\appsettings.Development.json
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\appsettings.json
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\POOI_T2_RosasChinen.staticwebassets.runtime.json
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\POOI_T2_RosasChinen.exe
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\POOI_T2_RosasChinen.deps.json
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\POOI_T2_RosasChinen.runtimeconfig.json
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\POOI_T2_RosasChinen.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\POOI_T2_RosasChinen.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\CapaEntidad.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\bin\Debug\net8.0\CapaEntidad.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.csproj.AssemblyReference.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.AssemblyInfoInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.AssemblyInfo.cs
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.csproj.CoreCompileInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.MvcApplicationPartsAssemblyInfo.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.RazorAssemblyInfo.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.RazorAssemblyInfo.cs
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets.build.json
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets.development.json
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets\msbuild.POOI_T2_RosasChinen.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets\msbuild.build.POOI_T2_RosasChinen.props
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.POOI_T2_RosasChinen.props
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.POOI_T2_RosasChinen.props
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\staticwebassets.pack.json
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\scopedcss\bundle\POOI_T2_RosasChinen.styles.css
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\scopedcss\projectbundle\POOI_T2_RosasChinen.bundle.scp.css
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_.4804F3F1.Up2Date
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\refint\POOI_T2_RosasChinen.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\POOI_T2_RosasChinen.genruntimeconfig.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\POOI_T2_RosasChinen\obj\Debug\net8.0\ref\POOI_T2_RosasChinen.dll

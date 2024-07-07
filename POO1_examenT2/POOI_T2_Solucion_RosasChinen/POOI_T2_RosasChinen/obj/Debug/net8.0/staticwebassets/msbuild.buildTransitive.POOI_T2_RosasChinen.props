@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\POOI_T2_RosasChinen.props" />
+</Project>

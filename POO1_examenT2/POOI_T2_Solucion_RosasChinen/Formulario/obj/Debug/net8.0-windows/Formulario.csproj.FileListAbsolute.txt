@@ -1,0 +1,44 @@
+D:\Descargas\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\Formulario.exe
+D:\Descargas\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\Formulario.deps.json
+D:\Descargas\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\Formulario.runtimeconfig.json
+D:\Descargas\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\Formulario.dll
+D:\Descargas\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\Formulario.pdb
+D:\Descargas\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Descargas\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\RestSharp.dll
+D:\Descargas\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\CapaEntidad.dll
+D:\Descargas\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\CapaEntidad.pdb
+D:\Descargas\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.csproj.AssemblyReference.cache
+D:\Descargas\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.Form1.resources
+D:\Descargas\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.csproj.GenerateResource.cache
+D:\Descargas\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.AssemblyInfoInputs.cache
+D:\Descargas\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.AssemblyInfo.cs
+D:\Descargas\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.csproj.CoreCompileInputs.cache
+D:\Descargas\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.csproj.CopyComplete
+D:\Descargas\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.dll
+D:\Descargas\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\refint\Formulario.dll
+D:\Descargas\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.pdb
+D:\Descargas\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.genruntimeconfig.cache
+D:\Descargas\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\ref\Formulario.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\Formulario.exe
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\Formulario.deps.json
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\Formulario.runtimeconfig.json
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\Formulario.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\Formulario.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\RestSharp.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\CapaEntidad.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\bin\Debug\net8.0-windows\CapaEntidad.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.csproj.AssemblyReference.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.Form1.resources
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.csproj.GenerateResource.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.AssemblyInfoInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.AssemblyInfo.cs
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.csproj.CoreCompileInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.csproj.Up2Date
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\refint\Formulario.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\Formulario.genruntimeconfig.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\POOI_T2_RosasChinen\Formulario\obj\Debug\net8.0-windows\ref\Formulario.dll
