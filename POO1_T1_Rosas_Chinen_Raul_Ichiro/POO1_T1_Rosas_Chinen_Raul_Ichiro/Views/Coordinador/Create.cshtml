@@ -1,0 +1,64 @@
+﻿@model CoordinadorEnt
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@if(!string.IsNullOrWhiteSpace(ViewBag.Mensaje))
+{
+    @ViewBag.Mensaje
+}
+
+@if (!string.IsNullOrWhiteSpace(ViewBag.MensajeError))
+{
+    @ViewBag.MensajeError
+}
+
+
+<form asp-action="Create" method="Post" asp-controller="Coordinador">
+    <div class="row">
+        <div class="col-md-2">
+            Nombres:
+            @Html.TextBoxFor(x => x.Nombres)
+        </div>
+        <div class="col-md-2">
+            Apellidos:
+            @Html.TextBoxFor(x => x.Apellidos)
+        </div>
+        <div class="col-md-2">
+            Nro Documento:
+            @Html.TextBoxFor(x => x.NroDocumento)
+        </div>
+        <div class="col-md-2">
+            Fecha Nacimiento:
+            @Html.TextBoxFor(x => x.FechaNacimiento, "{0:dd/MM/yyyy}", new { type = "date" })
+        </div>
+        <div class="col-md-2">
+            Fecha Contrato:
+            @Html.TextBoxFor(x => x.FechaContrato, "{0:dd/MM/yyyy}", new { type = "date" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            Horas Trabajadas:
+            @Html.TextBoxFor(x => x.HorasTrabajadas)
+        </div>
+        <div class="col-md-2">
+            Tarifa:
+            @Html.TextBoxFor(x => x.Tarifa)
+        </div>
+        <div class="col-md-2">
+            Años de Servicio:
+            @Html.TextBoxFor(x => x.AniosServicio)
+        </div>
+        <div class="col-md-2">
+            Titulado:
+            @Html.TextBoxFor(x => x.Titulado)
+        </div>
+    </div>
+    <br />
+    <div class="text-center">
+        <button class="btn btn-success btn-lg">Confirmar</button>
+    </div>
+</form>

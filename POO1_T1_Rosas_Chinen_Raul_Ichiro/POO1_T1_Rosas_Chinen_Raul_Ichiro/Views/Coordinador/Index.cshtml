@@ -1,0 +1,58 @@
+﻿@model IEnumerable<CoordinadorEnt>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div class="row">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Id Coordinador</th>
+                <th>Nombres</th>
+                <th>Apellidos</th>
+                <th>Nro Documento</th>
+                <th>Fecha de Contrato</th>
+                <th>Años de Servicio</th>
+                <th>Horas Trabajadas</th>
+                <th>Tarifa</th>
+                <th>Sueldo Basico</th>
+                <th>Incentivo</th>
+                <th>Bonificacion</th>
+                <th>Monto</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Count() > 0)
+            {
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.IdTrabajador</td>
+                        <td>@item.Nombres</td>
+                        <td>@item.Apellidos</td>
+                        <td>@item.NroDocumento</td>
+                        <td>@item.FechaContrato</td>
+                        <td>@item.AniosServicio</td>
+                        <td>@item.HorasTrabajadas</td>
+                        <td>@item.Tarifa</td>
+                        <td>@item.SueldoBasico()</td>
+                        <td>@item.Incentivo()</td>
+                        <td>@item.Bonificacion()</td>
+                        <td>@item.Monto()</td>
+                    </tr>
+                }
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="9"> Total de Registros: @Model.Count()</td>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+
+<div class="row">
+    <a href='@Url.Action("Create","Coordinador")' class="btn btn-primary btn-lg">Registrar Nuevo Coordinador</a>
+</div>

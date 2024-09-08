@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "POO1_T1_Rosas_Chinen_Raul_Ichiro/1.0.0": {
+        "runtime": {
+          "POO1_T1_Rosas_Chinen_Raul_Ichiro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO1_T1_Rosas_Chinen_Raul_Ichiro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

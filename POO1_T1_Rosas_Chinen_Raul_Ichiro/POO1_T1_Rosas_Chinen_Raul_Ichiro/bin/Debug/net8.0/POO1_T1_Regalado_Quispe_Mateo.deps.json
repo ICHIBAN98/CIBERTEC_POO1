@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "POO1_T1_Regalado_Quispe_Mateo/1.0.0": {
+        "runtime": {
+          "POO1_T1_Regalado_Quispe_Mateo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO1_T1_Regalado_Quispe_Mateo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
