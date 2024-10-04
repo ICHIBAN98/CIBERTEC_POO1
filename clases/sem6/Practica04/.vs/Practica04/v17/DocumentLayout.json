@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem6\\Practica04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5284FA-D63F-442C-B993-361E4102FF71}|Practica04\\Practica04.csproj|d:\\aaa_cibertec\\3\u00B0 ciclo\\poo 1\\sem6\\practica04\\practica04\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5284FA-D63F-442C-B993-361E4102FF71}|Practica04\\Practica04.csproj|solutionrelative:practica04\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D13B73D-BDE8-4820-8C76-AF12E0BCE405}|MiWeb\\MiWeb.csproj|d:\\aaa_cibertec\\3\u00B0 ciclo\\poo 1\\sem6\\practica04\\miweb\\component\\nuevaventacomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D13B73D-BDE8-4820-8C76-AF12E0BCE405}|MiWeb\\MiWeb.csproj|solutionrelative:miweb\\component\\nuevaventacomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D13B73D-BDE8-4820-8C76-AF12E0BCE405}|MiWeb\\MiWeb.csproj|d:\\aaa_cibertec\\3\u00B0 ciclo\\poo 1\\sem6\\practica04\\miweb\\wwwroot\\js\\control.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D13B73D-BDE8-4820-8C76-AF12E0BCE405}|MiWeb\\MiWeb.csproj|solutionrelative:miweb\\wwwroot\\js\\control.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D13B73D-BDE8-4820-8C76-AF12E0BCE405}|MiWeb\\MiWeb.csproj|d:\\aaa_cibertec\\3\u00B0 ciclo\\poo 1\\sem6\\practica04\\miweb\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D13B73D-BDE8-4820-8C76-AF12E0BCE405}|MiWeb\\MiWeb.csproj|solutionrelative:miweb\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem6\\Practica04\\Practica04\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "Practica04\\Controllers\\VentaController.cs",
+              "ToolTip": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem6\\Practica04\\Practica04\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "Practica04\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:31:26.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NuevaVentaComponent.razor",
+              "DocumentMoniker": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem6\\Practica04\\MiWeb\\Component\\NuevaVentaComponent.razor",
+              "RelativeDocumentMoniker": "MiWeb\\Component\\NuevaVentaComponent.razor",
+              "ToolTip": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem6\\Practica04\\MiWeb\\Component\\NuevaVentaComponent.razor",
+              "RelativeToolTip": "MiWeb\\Component\\NuevaVentaComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T02:20:23.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Control.js",
+              "DocumentMoniker": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem6\\Practica04\\MiWeb\\wwwroot\\js\\Control.js",
+              "RelativeDocumentMoniker": "MiWeb\\wwwroot\\js\\Control.js",
+              "ToolTip": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem6\\Practica04\\MiWeb\\wwwroot\\js\\Control.js",
+              "RelativeToolTip": "MiWeb\\wwwroot\\js\\Control.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-03T02:05:35.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem6\\Practica04\\MiWeb\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "MiWeb\\Pages\\Index.razor",
+              "ToolTip": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem6\\Practica04\\MiWeb\\Pages\\Index.razor",
+              "RelativeToolTip": "MiWeb\\Pages\\Index.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAG4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:22:20.755Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

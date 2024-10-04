@@ -1,0 +1,41 @@
+0. Creacion de proyecto WebApi (Backend - capa Entidad - capa Negocios - capa Datos)
+1. Capa Entidad con entidades
+2. SQL - tabla de cada entidad
+3. Instalar NuGet -> para WebApi SqlClient
+4. VentaController JUNTO CON dto (porque van de la mano)
+5. TablaController JUNTO CON dto (porque van de la mano)
+
+_________no olvidar que tanto el proyectoWebApi como el proyecto WebApp deben referenciar a CAPA_ENTIDAD_________
+
+
+6. Creacion del Front (WebApp) -> Aplicacion Blazor Server - trabaja con BootStrap
+7. Instalar NuGet -> JSon & RestSharp
+8.appsettings (WebApp)
+9. Data.MetaGlobal (WebApp)
+10. program.cs (WebApp)
+11.Pages.Index.razor
+
+____MODAL_____
+
+12.en wwwww creamos carpeta js -> Control.js (ESTO ES PARA EL MODAL) -> referenciamos Control.js & Bootstrap.js & jquery.js en Pages.Host -> llamamos js en Index.Razor (@inject IJSRuntime js)
+Creamos el modal (plantilla BootStrap)
+Utilizamos el js que referenciamos con el (@inject IJSRuntime js) dentro de los métodos que vayan a desplegar el MODAL:
+        js.InvokeVoidAsync("ShowMessageModal", "MsjNuevoRegistro");
+
+
+___Ahora seguimos con el MODAL____lo vamos a llenar con COMPONENTES (asi mostraremos otra página, en este caso la vista para REGISTRAR/EDITAR venta)____
+
+13. Creamos carpeta Compontent -> Agregar componente Razor -> NuevaVentaComponent
+	Al ser un componente que se usará en la principal (index.razor) a este componente le copiaremos sus mismos USING y INJECT
+	Solamente no tendría el @page "/" porque esta no es una Web, sino un componente
+	
+	Empezamos a llenar el componente
+	Lo llamamos en el MODAL en el Index.Razor -> Al hacerlo tenemos que pasarle los parámetros del componente
+	Agregamos esos mismos parámetros al Index.Razor arriba para toda la web como variables con valores que no runneen nada
+	Empatamos esas variables con los parámetros del MODAL
+	Hacemos que esas variables cambien de valor en el método que corresponda
+
+	Empezamos a llenar los métodos para que deserialicen
+
+
+recording7...

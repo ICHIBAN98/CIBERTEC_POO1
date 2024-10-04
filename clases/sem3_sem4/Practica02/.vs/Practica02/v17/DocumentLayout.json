@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem3_sem4\\Practica02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8804CD1E-8B99-4239-B63E-2E4650ADFB49}|Practica02\\Practica02.csproj|d:\\aaa_cibertec\\3\u00B0 ciclo\\poo 1\\sem3_sem4\\practica02\\practica02\\controllers\\trabajadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8804CD1E-8B99-4239-B63E-2E4650ADFB49}|Practica02\\Practica02.csproj|solutionrelative:practica02\\controllers\\trabajadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D5F30E-567A-4176-996B-4758815C49CF}|WinFormsApp1\\WinFormsApp1.csproj|d:\\aaa_cibertec\\3\u00B0 ciclo\\poo 1\\sem3_sem4\\practica02\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D5F30E-567A-4176-996B-4758815C49CF}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8804CD1E-8B99-4239-B63E-2E4650ADFB49}|Practica02\\Practica02.csproj|d:\\aaa_cibertec\\3\u00B0 ciclo\\poo 1\\sem3_sem4\\practica02\\practica02\\models\\trabajadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8804CD1E-8B99-4239-B63E-2E4650ADFB49}|Practica02\\Practica02.csproj|solutionrelative:practica02\\models\\trabajadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem3_sem4\\Practica02\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem3_sem4\\Practica02\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAcwFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:39:31.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrabajadorController.cs",
+              "DocumentMoniker": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem3_sem4\\Practica02\\Practica02\\Controllers\\TrabajadorController.cs",
+              "RelativeDocumentMoniker": "Practica02\\Controllers\\TrabajadorController.cs",
+              "ToolTip": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem3_sem4\\Practica02\\Practica02\\Controllers\\TrabajadorController.cs",
+              "RelativeToolTip": "Practica02\\Controllers\\TrabajadorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:46:53.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrabajadorDto.cs",
+              "DocumentMoniker": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem3_sem4\\Practica02\\Practica02\\Models\\TrabajadorDto.cs",
+              "RelativeDocumentMoniker": "Practica02\\Models\\TrabajadorDto.cs",
+              "ToolTip": "D:\\AAA_Cibertec\\3\u00B0 CICLO\\POO 1\\sem3_sem4\\Practica02\\Practica02\\Models\\TrabajadorDto.cs",
+              "RelativeToolTip": "Practica02\\Models\\TrabajadorDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:19:16.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

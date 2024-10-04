@@ -1,0 +1,22 @@
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaEntidad\bin\Debug\net8.0\CapaEntidad.deps.json
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaEntidad\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaEntidad\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\refint\CapaEntidad.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\ref\CapaEntidad.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem1\MiPrimerProyecto\CapaEntidad\bin\Debug\net8.0\CapaEntidad.deps.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem1\MiPrimerProyecto\CapaEntidad\bin\Debug\net8.0\CapaEntidad.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem1\MiPrimerProyecto\CapaEntidad\bin\Debug\net8.0\CapaEntidad.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem1\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAA_Cibertec\3° CICLO\POO 1\sem1\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfoInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem1\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.AssemblyInfo.cs
+D:\AAA_Cibertec\3° CICLO\POO 1\sem1\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem1\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem1\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\refint\CapaEntidad.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem1\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\CapaEntidad.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem1\MiPrimerProyecto\CapaEntidad\obj\Debug\net8.0\ref\CapaEntidad.dll

@@ -1,0 +1,30 @@
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\bin\Debug\net8.0\CapaDatos.deps.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\bin\Debug\net8.0\CapaDatos.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\bin\Debug\net8.0\CapaDatos.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\bin\Debug\net8.0\CapaEntidad.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\bin\Debug\net8.0\CapaEntidad.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.AssemblyReference.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfoInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.AssemblyInfo.cs
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.csproj.Up2Date
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\refint\CapaDatos.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\CapaDatos.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaDatos\obj\Debug\net8.0\ref\CapaDatos.dll

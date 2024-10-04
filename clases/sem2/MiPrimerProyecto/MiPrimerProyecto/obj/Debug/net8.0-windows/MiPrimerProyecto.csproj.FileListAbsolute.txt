@@ -1,0 +1,64 @@
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.exe
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.deps.json
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.runtimeconfig.json
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\CapaNegocios.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\CapaNegocios.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.Form1.resources
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.Properties.Resources.resources
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.csproj.GenerateResource.cache
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.AssemblyInfo.cs
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimer.2A7B73D5.Up2Date
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\refint\MiPrimerProyecto.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.genruntimeconfig.cache
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\ref\MiPrimerProyecto.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.dll.config
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.exe
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.dll.config
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.deps.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.runtimeconfig.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\MiPrimerProyecto.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\CapaDatos.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\CapaEntidad.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\CapaNegocios.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\CapaEntidad.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\CapaNegocios.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\net8.0-windows\CapaDatos.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.csproj.AssemblyReference.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.Form1.resources
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.Properties.Resources.resources
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.csproj.GenerateResource.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.AssemblyInfoInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.AssemblyInfo.cs
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimer.2A7B73D5.Up2Date
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\refint\MiPrimerProyecto.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\MiPrimerProyecto.genruntimeconfig.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\net8.0-windows\ref\MiPrimerProyecto.dll

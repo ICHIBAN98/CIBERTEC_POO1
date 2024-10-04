@@ -1,0 +1,34 @@
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaNegocios.deps.json
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaNegocios.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaNegocios.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.AssemblyInfoInputs.cache
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.AssemblyInfo.cs
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNego.1D246B3C.Up2Date
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\refint\CapaNegocios.dll
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.pdb
+C:\Users\fchuje\source\repos\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\ref\CapaNegocios.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaNegocios.deps.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaNegocios.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaNegocios.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaDatos.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaEntidad.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaDatos.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\bin\Debug\net8.0\CapaEntidad.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.csproj.AssemblyReference.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.AssemblyInfoInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.AssemblyInfo.cs
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.csproj.CoreCompileInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNego.1D246B3C.Up2Date
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\refint\CapaNegocios.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\CapaNegocios.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem2\MiPrimerProyecto\CapaNegocios\obj\Debug\net8.0\ref\CapaNegocios.dll

@@ -1,0 +1,312 @@
+﻿@using CapaEntidad
+@using Newtonsoft.Json
+@using RestSharp
+@using MiWeb.Data
+@using System.Net
+@inject IJSRuntime js
+
+
+@code {
+    [Parameter]
+    public int IdVenta { get; set; }
+    [Parameter]
+    public bool Ejecutar { get; set; }
+
+    VentaCabEnt Ventacabecera;
+    VentaDetEnt ventadetalle;
+    List<TablaEnt> ListaTipoDocumento;
+    TablaEnt objTipodocumento;
+
+    string _Titulo = "";
+    string _Mensaje = "";
+
+    protected override void OnParametersSet()
+    {
+        Ventacabecera = new VentaCabEnt();
+        Ventacabecera.ListadoProducto = new List<VentaDetEnt>();
+        ventadetalle = new VentaDetEnt();
+
+
+
+       
+        ListaTipoDocumento = new List<TablaEnt>();
+        objTipodocumento = new TablaEnt();
+
+
+
+        if (Ejecutar == true)
+        {
+
+            ListarTipoDocumento();
+
+            if(IdVenta > 0) //Editar
+            {
+                MostrarDatosVenta();   
+            }
+            base.OnParametersSet();
+
+        }        
+    }
+
+    void ListarTipoDocumento()
+    {
+        try
+        {
+            var _client = new RestClient(MetaGlobal.RutaApi + "Tabla/ListarTabla?codtabla=TablaTipoDocumento");
+            var _request = new RestRequest();
+            _request.Method = Method.Get;
+            var _response = _client.Execute(_request);
+            if (_response.StatusCode == HttpStatusCode.BadRequest)
+            {
+
+                ListaTipoDocumento = new List<TablaEnt>();
+            }
+            else
+            {
+                ListaTipoDocumento = JsonConvert.DeserializeObject<List<TablaEnt>>(_response.Content);
+
+            }
+        }
+        catch (Exception ex)
+        {
+
+        }
+
+    }
+
+    void MostrarDatosVenta()
+    {
+        try
+        {
+
+            var _client = new RestClient(MetaGlobal.RutaApi + "Venta/ListarVentaGeneral?orden=2&idventa="+ IdVenta.ToString());
+            var _request = new RestRequest();
+            _request.Method = Method.Get;
+            var _response = _client.Execute(_request);
+            if (_response.StatusCode == HttpStatusCode.BadRequest)
+            {
+                Ventacabecera = new VentaCabEnt();
+
+            }
+            else
+            {
+                Ventacabecera = JsonConvert.DeserializeObject<VentaCabEnt>(_response.Content);
+
+
+
+            }
+        } 
+        catch (Exception ex)
+
+        {
+
+        }    
+    }
+
+
+    void AgregarListaDetalle()
+    {
+        ventadetalle.Subtotal = ventadetalle.Cantidad * ventadetalle.Precio;
+        ventadetalle.Igv = Math.Round(ventadetalle.Subtotal * 0.18, 4);
+        ventadetalle.Total = Math.Round(ventadetalle.Subtotal + ventadetalle.Igv, 4);
+
+        if (ventadetalle.Id_VentaDetalle > 0)
+        {
+
+            var data = Ventacabecera.ListadoProducto.Where(w => w.Id_VentaDetalle == ventadetalle.Id_VentaDetalle).FirstOrDefault();
+
+            data.NombreProducto = ventadetalle.NombreProducto;
+            data.Cantidad = ventadetalle.Cantidad;
+            data.Precio = ventadetalle.Precio;
+            data.Subtotal = ventadetalle.Subtotal;
+            data.Igv = ventadetalle.Igv;
+            data.Total = ventadetalle.Total;
+        }
+        else
+        {
+            Ventacabecera.ListadoProducto.Add(ventadetalle);
+        }
+
+
+        ventadetalle = new VentaDetEnt();
+    }
+
+    void EditarDetalle(VentaDetEnt valor)
+    {
+        ventadetalle = valor;
+
+    }
+
+    void EliminarDetalle(VentaDetEnt valor)
+    {
+
+        Ventacabecera.ListadoProducto.Remove(valor);
+    }
+
+
+
+    void RegistrarVenta()
+    {
+
+        if (Ventacabecera.Id_Venta == 0) // nuevo registro
+        {
+            Ventacabecera.Id_Persona = 1;    
+
+        }
+
+        Ventacabecera.Id_TipoDocumento = objTipodocumento.Valor;
+
+        Ventacabecera.Sub_Total = Ventacabecera.ListadoProducto.Sum(s=>s.Subtotal);
+        Ventacabecera.Igv = Ventacabecera.ListadoProducto.Sum(s=>s.Igv) ;
+        Ventacabecera.Total = Ventacabecera.ListadoProducto.Sum(s => s.Total) ;
+
+        var Json = JsonConvert.SerializeObject(Ventacabecera);
+
+        try
+        {
+            var _client = new RestClient(MetaGlobal.RutaApi + "Venta/RegistrarVenta");
+            var _request = new RestRequest();
+            _request.Method = Method.Post;
+            _request.AddJsonBody(Json);
+            var _response = _client.Execute(_request);
+            if (_response.StatusCode == HttpStatusCode.BadRequest)
+            {
+                _Titulo = "Error de registro";
+                _Mensaje = _response.Content;
+                js.InvokeVoidAsync("ShowMessageModal", "MsjRegistro");
+
+            }
+            else
+            {
+                var respuesta = JsonConvert.DeserializeObject<ResultadoTransationE>(_response.Content);
+
+                _Titulo = "Confirmación";
+                _Mensaje = "Registro Correcto";
+                js.InvokeVoidAsync("ShowMessageModal", "MsjRegistro");
+            }
+
+        }
+        catch (Exception ex)
+        {
+            _Titulo =  "Error";
+            _Mensaje = ex.Message;
+            js.InvokeVoidAsync("ShowMessageModal", "MsjRegistro");
+
+        }
+    }
+
+}
+
+
+<div class="row">
+    <div class="col-md-3">
+        Cliente
+        <input class="form-control" @bind="Ventacabecera.NombreCliente" />
+    </div>
+    <div class="col-md-3">
+        TipoDocumento
+        <EditForm Model="objTipodocumento">
+            <InputSelect class="form-select-lg form-control" @bind-Value="@objTipodocumento.Valor">
+                @if (ListaTipoDocumento.Count() > 0)
+                {
+                    @foreach (var item in ListaTipoDocumento)
+                    {
+                        <option value="@item.Valor">@item.Nombre</option>
+                    }
+                }
+            </InputSelect>
+        </EditForm>
+    </div>
+    <div class="col-md-3">
+        NroDocumento
+        <input class="form-control" @bind="Ventacabecera.Nro_Documento"/>
+    </div>
+    <div class="col-md-2">
+        <button class="btn btn-success" @onclick="RegistrarVenta">Registrar</button>
+    </div>
+</div>
+<div class="row mt-3">
+    <p>Sesccion para agregar Detalle</p>
+    <div class="col-md-3">
+        Producto
+        <input type="text" @bind="ventadetalle.NombreProducto" class="form-control" />
+    </div>
+    <div class="col-md-2">
+        Cantidad
+        <input type="text" @bind="ventadetalle.Cantidad" class="form-control" />
+    </div>
+    <div class="col-md-2">
+        Precio
+        <input type="text" @bind="ventadetalle.Precio" class="form-control" />
+    </div>   
+
+    <div class="col-md-2">
+        <button class="btn btn-success" @onclick="AgregarListaDetalle">Agregar</button>
+    </div>
+</div>
+<div class="row mt-3">
+    @if (Ventacabecera.ListadoProducto.Count() > 0)
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Codigo</th>
+                    <th>Nombre Producto</th>
+                    <th>Cantidad</th>
+                    <th>Precio</th>
+                    <th>Subtotal</th>
+                    <th>Descuento</th>
+                    <th>Igv</th>
+                    <th>Total</th>
+                    <th>Opción</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Ventacabecera.ListadoProducto)
+                {
+                    <tr>
+                        <td>@item.Id_VentaDetalle</td>
+                        <td>@item.NombreProducto</td>
+                        <td>@item.Cantidad</td>
+                        <td>@item.Precio</td>
+                        <td>@item.Subtotal</td>
+                        <td>@item.Descuento</td>
+                        <td>@item.Igv</td>
+                        <td>@item.Total</td>
+                        <td>
+                            @if (item.Id_VentaDetalle > 0)
+                            {
+                                <button class="btn btn-primary" @onclick="(()=>EditarDetalle(item))">Editar</button>
+                            }
+                            @if (item.Id_VentaDetalle == 0)
+                            {
+                                <button class="btn btn-danger" @onclick="(()=>EliminarDetalle(item))">Eliminar</button>
+                            }
+                        </td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>    
+    
+    }
+</div>
+
+
+<div class="modal" id="MsjRegistro" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl" style="max-width: 35%;  margin: 10px auto;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4>@_Titulo</h4>
+                <button type="button" id="idCloseModal"  class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="text-center">
+                   @_Mensaje
+                </div>
+            </div>
+            <div class="modal-footer text-center modal-footer-message">
+            </div>
+        </div>
+    </div>
+</div>

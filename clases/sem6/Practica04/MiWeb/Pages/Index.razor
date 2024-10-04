@@ -1,0 +1,148 @@
+﻿@page "/"
+@using CapaEntidad
+@using Newtonsoft.Json
+@using RestSharp
+@using MiWeb.Data
+@using System.Net
+@inject IJSRuntime js
+
+@code{
+
+    List<VentaCabEnt> objListaVenta = new List<VentaCabEnt>();
+    int Idventa = 0;
+    bool ejecuatar = false;
+
+    protected override void OnInitialized()
+    {
+        ListarVentas();
+        base.OnInitialized();
+    }
+
+    void ListarVentas()
+    {
+        try
+        {
+            var _client = new RestClient(MetaGlobal.RutaApi + "Venta/ListarVentaCab?orden=1&idventa=0");
+            var _request = new RestRequest();
+            _request.Method = Method.Get;
+            var _response = _client.Execute(_request);
+            if (_response.StatusCode == HttpStatusCode.BadRequest)
+            {
+
+                objListaVenta = new List<VentaCabEnt>();
+            }
+            else
+            {
+                objListaVenta = JsonConvert.DeserializeObject<List<VentaCabEnt>>(_response.Content);
+
+            }
+        }
+        catch (Exception ex)
+        {
+
+        }
+    }
+
+    void NuevaVenta()
+    {
+        Idventa = 0;
+        ejecuatar = true;
+        js.InvokeVoidAsync("ShowMessageModal", "MsjNuevoRegistro");
+
+    }
+
+    void EditarVenta(int _IdVenta)
+    {
+        Idventa = _IdVenta;
+        ejecuatar = true;
+        js.InvokeVoidAsync("ShowMessageModal", "MsjNuevoRegistro");
+
+    }
+
+    void EliminarVenta(int Idventa)
+    {
+        
+    }
+
+
+}
+
+
+ <p>
+     <h1>Listado de Venta</h1>
+ </p>
+ <div class="row">
+     <div class="col-md-10"> </div>
+     <div class="col-md-2">
+        <button class="btn btn-success" @onclick="NuevaVenta">
+            Registrar Nueva Venta
+        </button>
+     </div>
+ </div>
+ <div class="row mt-3">
+     <div class="col-md-12 table-responsive">
+         <table class="table table-bordered">
+             <thead>
+                 <tr>
+                     <th>Cod Venta</th>
+                     <th>Nombre Cliente</th>
+                     <th>Tipo Doc</th>
+                     <th>Nro Documento</th>
+                    <th>Fecha</th>
+                    <th>Sub total</th>
+                    <th>Descuento</th>
+                    <th>Igv</th>
+                    <th>Total</th>
+                    <th>Opciones</th>
+                 </tr>
+             </thead>
+             <tbody>
+                 @if (objListaVenta.Count() > 0)
+                {
+                    @foreach (var item in objListaVenta)
+                    {
+                        <tr>
+                            <td>@item.Id_Venta</td>
+                            <td>@item.NombreCliente</td>
+                            <td>@item.NombreTipoDocumento</td>
+                            <td>@item.Nro_Documento</td>
+                            <td>@item.Fecha_Venta.ToString("dd/MM/yyyy")</td>
+                            <td>@item.Sub_Total</td>
+                            <td>@item.Descuento</td>
+                            <td>@item.Igv</td>
+                            <td>@item.Total</td>
+                            <td>
+                                <button class="btn btn-primary" @onclick="(()=>EditarVenta(item.Id_Venta))">Editar</button>
+                                <button class="btn btn-danger" @onclick ="(()=>EliminarVenta(item.Id_Venta))" >Eliminar</button>
+                            </td>
+                        </tr>
+
+                    }
+                }
+            </tbody>
+         </table>
+     </div>
+ </div>
+
+<div class="modal" id="MsjNuevoRegistro" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl" style="max-width: 95%;  margin: 10px auto;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4>Venta</h4>
+                <button type="button" id="idCloseModal" style="border: 4px solid #8b0000;border-radius: 20px;" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="text-center">
+                     <MiWeb.Component.NuevaVentaComponent
+                        IdVenta="@Idventa"
+                        Ejecutar="@ejecuatar"
+                     ></MiWeb.Component.NuevaVentaComponent>
+                </div>
+            </div>
+            <div class="modal-footer text-center modal-footer-message">
+            </div>
+        </div>
+    </div>
+</div>
+
+

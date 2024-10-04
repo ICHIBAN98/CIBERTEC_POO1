@@ -1,0 +1,50 @@
+﻿@model IEnumerable<PersonaEnt>
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div class="row">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Id Persona</th>
+                <th>Nombres</th>
+                <th>FechaNacimiento</th>
+                <th>Edad</th>
+                <th>sueldo</th>
+                <th>Bonificacion</th>
+                <th>Sueldo total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Count() > 0)
+            {
+                @foreach (var item in Model)
+                {                    
+                    <tr>
+                        <td>@item.IdPersona</td>
+                        <td>@item.Nombres</td>
+                        <td>@item.FechaNacimiento</td>
+                        <td>@item.CalcularEdad()</td>
+                        <td>@item.sueldo</td>
+                        <td>@item.Bonificacion()</td>
+                        <td>@item.SueldoTotal()</td>
+                    </tr>
+                }
+
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="7">Total Registros: @Model.Count()</td>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+
+<div class="row">
+    <a href='@Url.Action("Create","Persona")' class="btn btn-primary btn-lg">Registrar Nueva Persona</a>
+</div>

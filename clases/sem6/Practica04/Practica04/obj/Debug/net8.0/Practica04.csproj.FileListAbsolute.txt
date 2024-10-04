@@ -1,0 +1,80 @@
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\appsettings.json
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\Practica04.exe
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\Practica04.deps.json
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\Practica04.runtimeconfig.json
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\Practica04.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\Practica04.pdb
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\Practica04.csproj.AssemblyReference.cache
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\Practica04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\Practica04.AssemblyInfoInputs.cache
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\Practica04.AssemblyInfo.cs
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\Practica04.csproj.CoreCompileInputs.cache
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\Practica04.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\Practica04.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\staticwebassets\msbuild.Practica04.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\staticwebassets\msbuild.build.Practica04.props
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practica04.props
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practica04.props
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\scopedcss\bundle\Practica04.styles.css
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\Practica04.csproj.Up2Date
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\Practica04.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\refint\Practica04.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\Practica04.pdb
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\Practica04.genruntimeconfig.cache
+C:\Users\fchuje\source\repos\Practica04\Practica04\obj\Debug\net8.0\ref\Practica04.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\fchuje\source\repos\Practica04\Practica04\bin\Debug\net8.0\CapaEntidad.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\appsettings.Development.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\appsettings.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\Practica04.exe
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\Practica04.deps.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\Practica04.runtimeconfig.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\Practica04.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\Practica04.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\CapaEntidad.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\bin\Debug\net8.0\CapaEntidad.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\Practica04.csproj.AssemblyReference.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\Practica04.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\Practica04.AssemblyInfoInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\Practica04.AssemblyInfo.cs
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\Practica04.csproj.CoreCompileInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\Practica04.MvcApplicationPartsAssemblyInfo.cs
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\Practica04.MvcApplicationPartsAssemblyInfo.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\staticwebassets.build.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\staticwebassets.development.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\staticwebassets\msbuild.Practica04.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\staticwebassets\msbuild.build.Practica04.props
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practica04.props
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practica04.props
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\staticwebassets.pack.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\scopedcss\bundle\Practica04.styles.css
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\Practica04.csproj.Up2Date
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\Practica04.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\refint\Practica04.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\Practica04.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\Practica04.genruntimeconfig.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem6\Practica04\Practica04\obj\Debug\net8.0\ref\Practica04.dll

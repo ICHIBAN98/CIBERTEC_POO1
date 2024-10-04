@@ -1,0 +1,90 @@
+D:\POO8253\MiproyectoWEb\bin\Debug\net8.0\appsettings.Development.json
+D:\POO8253\MiproyectoWEb\bin\Debug\net8.0\appsettings.json
+D:\POO8253\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.staticwebassets.runtime.json
+D:\POO8253\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.exe
+D:\POO8253\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.deps.json
+D:\POO8253\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.runtimeconfig.json
+D:\POO8253\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.dll
+D:\POO8253\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.pdb
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.AssemblyInfoInputs.cache
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.AssemblyInfo.cs
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.csproj.CoreCompileInputs.cache
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.MvcApplicationPartsAssemblyInfo.cache
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.RazorAssemblyInfo.cache
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.RazorAssemblyInfo.cs
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\staticwebassets.build.json
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\staticwebassets.development.json
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\staticwebassets\msbuild.MiproyectoWEb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\staticwebassets\msbuild.build.MiproyectoWEb.props
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MiproyectoWEb.props
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MiproyectoWEb.props
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\staticwebassets.pack.json
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\scopedcss\bundle\MiproyectoWEb.styles.css
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\scopedcss\projectbundle\MiproyectoWEb.bundle.scp.css
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.dll
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\refint\MiproyectoWEb.dll
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.pdb
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.genruntimeconfig.cache
+D:\POO8253\MiproyectoWEb\obj\Debug\net8.0\ref\MiproyectoWEb.dll
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\bin\Debug\net8.0\appsettings.Development.json
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\bin\Debug\net8.0\appsettings.json
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.staticwebassets.runtime.json
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.exe
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.deps.json
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.runtimeconfig.json
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.dll
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.pdb
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.AssemblyInfoInputs.cache
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.AssemblyInfo.cs
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.csproj.CoreCompileInputs.cache
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.MvcApplicationPartsAssemblyInfo.cache
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.RazorAssemblyInfo.cache
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.RazorAssemblyInfo.cs
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\staticwebassets.build.json
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\staticwebassets.development.json
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\staticwebassets\msbuild.MiproyectoWEb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\staticwebassets\msbuild.build.MiproyectoWEb.props
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MiproyectoWEb.props
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MiproyectoWEb.props
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\scopedcss\bundle\MiproyectoWEb.styles.css
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\scopedcss\projectbundle\MiproyectoWEb.bundle.scp.css
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.dll
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\refint\MiproyectoWEb.dll
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.pdb
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.genruntimeconfig.cache
+D:\Descargas\WorkSpace - Clase\MiproyectoWEb\obj\Debug\net8.0\ref\MiproyectoWEb.dll
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\bin\Debug\net8.0\appsettings.Development.json
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\bin\Debug\net8.0\appsettings.json
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.staticwebassets.runtime.json
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.exe
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.deps.json
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.runtimeconfig.json
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.dll
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\bin\Debug\net8.0\MiproyectoWEb.pdb
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.AssemblyInfoInputs.cache
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.AssemblyInfo.cs
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.csproj.CoreCompileInputs.cache
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.MvcApplicationPartsAssemblyInfo.cache
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.RazorAssemblyInfo.cache
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.RazorAssemblyInfo.cs
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\staticwebassets.build.json
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\staticwebassets.development.json
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\staticwebassets\msbuild.MiproyectoWEb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\staticwebassets\msbuild.build.MiproyectoWEb.props
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MiproyectoWEb.props
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MiproyectoWEb.props
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\staticwebassets.pack.json
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\scopedcss\bundle\MiproyectoWEb.styles.css
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\scopedcss\projectbundle\MiproyectoWEb.bundle.scp.css
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.dll
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\refint\MiproyectoWEb.dll
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.pdb
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\MiproyectoWEb.genruntimeconfig.cache
+D:\AAA_Cibertec\ZZZ_MATEO_POO1\miProyectoWeb\MiproyectoWEb\obj\Debug\net8.0\ref\MiproyectoWEb.dll

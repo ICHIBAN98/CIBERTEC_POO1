@@ -1,0 +1,47 @@
+﻿@model DocenteEnt
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@if (!string.IsNullOrWhiteSpace(ViewBag.Mensaje))
+{
+    @ViewBag.Mensaje
+
+}
+
+@if (!string.IsNullOrWhiteSpace(ViewBag.MensajeError))
+{
+    @ViewBag.MensajeError
+
+}
+
+<form asp-action="Create" asp-controller="Docente" method="post">
+    <div class="row">
+        <div class="col-md-2">
+            Nombre
+            @Html.TextBoxFor(x => x.Nombres)
+        </div>
+        <div class="col-md-2">
+            Fecha Nacimiento
+            @Html.TextBoxFor(x => x.FechaNacimiento, "{0:dd/MM/yyyy}", new { type = "date" })
+        </div>
+        <div class="col-md-2">
+            Sueldo
+            @Html.TextBoxFor(x => x.sueldo)
+        </div>
+        <div class="col-md-2">
+            Tiempo de Servicio
+            @Html.TextBoxFor(x => x.TiempoServicio)
+        </div>
+        <div class="col-md-2">
+            Tipo de Servicio
+            @Html.TextBoxFor(x => x.TipoServicio)
+        </div>
+        <div class="col-md-2">
+            <button class="btn btn-success"> Agregar </button>
+        </div>
+    </div>
+</form>

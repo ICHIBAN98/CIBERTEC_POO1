@@ -1,0 +1,44 @@
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\CapaEntidad.dll
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\CapaEntidad.pdb
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\fchuje\source\repos\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\RestSharp.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\CapaEntidad.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\bin\Debug\net8.0-windows\CapaEntidad.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\AAA_Cibertec\3° CICLO\POO 1\sem3_sem4\Practica02\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
